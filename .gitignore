@@ -1,0 +1,7 @@
+.project
+bin/
+.classpath
+src/test/
+.settings/
+src/io/github/chanlugeon/nasus/az/board/DonationBoard.java
+src/io/github/chanlugeon/nasus/plugin/collector/
